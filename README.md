@@ -1,3 +1,6 @@
+> **Provenance note**  
+> This repository is a personal fork/mirror of [HyperDbg/pdbex](https://github.com/HyperDbg/pdbex), which is based on the original [wbenny/pdbex](https://github.com/wbenny/pdbex) project. The core project and historical commits belong to their upstream authors. I keep this copy for Windows internals, PDB-structure, and debugger-integration experiments; use commit attribution to identify any downstream changes.
+
 [![Build status](https://ci.appveyor.com/api/projects/status/8e24lcfhp1ltngfu?svg=true)](https://ci.appveyor.com/project/wbenny/pdbex)
 
 # pdbex
